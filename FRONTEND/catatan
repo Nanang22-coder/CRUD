@@ -1,0 +1,2 @@
+npx create-react-app frontend
+npm i react-router-dom axios bulma 
